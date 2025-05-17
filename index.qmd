@@ -3,9 +3,9 @@ title: "Xiaoxiao Li"
 image: xxli_photo.jpeg
 toc: false
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
+  template: trestles
+  #image-shape: round
+ # image-width: 17em
   links:
     - text: GitHub
       href: https://github.com/Xxiao-Li
@@ -17,4 +17,8 @@ about:
       href: https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en&inst=12733411405069140160&authuser=1
 ---
 
-I am interested in the interdisciplinary field of empirical ecology and mathematical modeling. I am joining the UKRI project "Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World", In particular, I focus on investigating multiple-stressor impacts on food web dynamics and functioning.
+I possess expertise in the interdisciplinary field of empirical ecology and mathematical modelling.
+
+My research extends across both the empirical food web establishment consisting of many different types of organisms in coastal ecosystems, and the utilization of mathematically dynamical models to solve ecological responses.
+
+Currently，I am joining Beckerman's lab working on the UKRI project "Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World", In particular, I focus on investigating multiple-stressor impacts on food web dynamics and functioning.

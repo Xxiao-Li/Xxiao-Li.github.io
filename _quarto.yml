@@ -11,18 +11,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: About.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: Publications.qmd
-        text: Publications
-      - href: CV.qmd
-        text: CV
+      - About.qmd
+      - Projects.qmd
+      - Publications.qmd
+      - CV.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: Zephyr
     css: styles.css
     toc: true
     page-layout: full
