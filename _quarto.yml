@@ -12,13 +12,13 @@ website:
       - href: index.qmd
         text: Home
       - About.qmd
-      - Projects.qmd
+      - Research.qmd
       - Publications.qmd
       - CV.qmd
 
 format:
   html:
-    theme: Zephyr
+    theme: fatly
     css: styles.css
     toc: true
     page-layout: full

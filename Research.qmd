@@ -1,0 +1,48 @@
+---
+title: Research
+---
+
+::: panel-tabset
+
+## [**Food Web Endpoints**]{style="color:slateblue;"}
+
+Chemical pollution in aquatic ecosystems is an increasing global concern, yet community-level responses to chemical stress remain poorly understood. In this study, we used empirical datasets of species sensitivity (lethal concentration endpoints for algae, invertebrates and fish) to derive toxicant-induced mortality, which were then incorporated into dynamic food web modelling. We conducted sequential press perturbations by gradually increasing chemical exposures and evaluated two types of food-web endpoints: species persistence and community biomass. Threshold losses were assessed at 5% and 50% reductions, and at 100%, corresponding to complete collapse. We found that food web structure (connectance and maximum trophic level) exerted stronger effects on both persistence and biomass at 5% and 50% endpoints, whereas species response diversity (dissimilarity in species sensitivities) was more influential at the 100% endpoint. 
+
+![](pics/FW_endpoints.png){.rounded width="60%"}
+
+----------------------------------------------------------------
+
+## [**Food Web Stability**]{style="color:slateblue;"}
+
+Food web stability and resilience are at the heart of understanding the structure and functioning of ecosystems. Previous studies show that models of empirical food webs are substantially more stable than random ones, due to a few strong interactions embedded in a majority of weak interactions. Analyses of trophic interaction loops show that in empirical food webs the patterns of the interac- tion strengths prevent the occurrence of destabilizing heavy loops and thereby enhances resilience. Yet, it is still unexplored which biological mechanisms cause these patterns that enhance food web resilience.
+Wequantifiedfoodwebresilienceusingtherealpartofthemaximumeigenvalueof the Jacobian matrix of the food web from a seagrass bed in the Yellow River Delta (YRD) wetland, that could be parametrized by the empirical data of the food web. We found that the empirically based Jacobian matrix of the YRD food web in- dicated a much higher resilience than random matrices with the same element values but arranged in random ways. Investigating the trophic interaction loops revealed that the high resilience was due to a negative correlation between the negative and positive interaction strengths (per capita top-down and bottom-up effects, respectively) within positive feedback loops with three species. The nega- tive correlation showed that when the negative interaction strengths were strong the positive was weak, and vice versa.
+Our invented reformulation of loop weight in terms of biomasses and specific production rates showed that energetic properties of the trophic groups in the loop and mass-balance constraints, for example, the food uptake has to balance all losses, created the negative correlation between the interaction strengths. This result could be generalized using a dynamic intraguild predation model, which de- livered the same pattern for a wide range of model parameters.
+
+![](pics/JAE.png){.rounded width="60%"}
+----------------------------------------------------------------
+
+## [**Keystone Species**]{style="color:slateblue;"}
+
+Identifying species with disproportionate effects on other species under press perturbations is essential, yet how species traits and community context drive their ‘keystone-ness’ remain unclear. We quantified keystone-ness as linearly approximated per capita net effect derived from normalised inverse community matrices and as non-linear per capita community biomass change from simulated perturbations in food webs with varying biomass structure. In bottom-heavy webs (negative relationship be- tween species' body mass and their biomass within the web), larger species at higher trophic levels tended to be keystone species, whereas in top-heavy webs (positive body mass to biomass relationship), the opposite was true and the relationships between species' energetic traits and keystone-ness were weakened or reversed compared to bottom-heavy webs. Linear approximations aligned well with non-linear responses in bottom-heavy webs, but were less consistent in top-heavy webs. These findings high- light the importance of community context in shaping species' keystone-ness and informing effective conservation actions.
+
+![](pics/keystone_species.png){.rounded width="50%"}
+
+
+----------------------------------------------------------------
+
+## [**Eco-evolutionary Dynamics**]{style="color:slateblue;"}
+
+![Evolution](pics/seagrass.jpeg){.rounded width="60%"}
+
+This project investigates how traits evolve under stress and affect food webs.\
+We focus on adaptive responses to contaminants, altered hydrology, and nutrient enrichment.
+
+----------------------------------------------------------------
+
+## [**Coastal Ecology**]{style="color:slateblue;"}
+
+![Coastal](pics/seagrass.jpeg){.rounded width="60%"}
+
+We analyze estuarine data to study nutrient enrichment and biodiversity.\
+This work links empirical coastal datasets with model-based forecasts.
+:::

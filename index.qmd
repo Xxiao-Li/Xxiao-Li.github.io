@@ -1,24 +1,24 @@
 ---
-title: "Xiaoxiao Li"
-image: xxli_photo.jpeg
+title: Xiaoxiao Li
+image: pics/xxl.jpeg
 toc: false
 about: 
   template: trestles
-  #image-shape: round
+  image-shape: round
  # image-width: 17em
   links:
-    - text: GitHub
-      href: https://github.com/Xxiao-Li
     - text: Email
       href: xiaoxiao.li@sheffield.ac.uk
+    - text: ORCID
+      href: https://orcid.org/0000-0002-4029-2162
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Xiaoxiao-Li-13?ev=hdr_xprf
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en&inst=12733411405069140160&authuser=1
+    - text: GitHub
+      href: https://github.com/Xxiao-Li
 ---
 
-I possess expertise in the interdisciplinary field of empirical ecology and mathematical modelling.
+I am currently a Research Associate in [Prof. Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)'s lab at the University of Sheffield, working on the UKRI-funded project **"Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World."**
 
-My research extends across both the empirical food web establishment consisting of many different types of organisms in coastal ecosystems, and the utilization of mathematically dynamical models to solve ecological responses.
-
-Currently，I am joining Beckerman's lab working on the UKRI project "Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World", In particular, I focus on investigating multiple-stressor impacts on food web dynamics and functioning.
+I am a quantitative ecologist working at the interface of field-based empirical research and theory-driven computational modelling. My work focuses on understanding how multiple environmental stressors, such as nutrient enrichment, contaminants, altered hydrology, and habitat heterogeneity, shape biodiversity, ecosystem functioning, and community stability. Using food web trophic topology, trait-based mechanistic models, and large-scale numerical simulations, I explore species extinction risk, identify keystone species/interactions, and assess stability across scales. I aim to focus more on processes and mechanisms underlying these responses and develop forecasts to inform risk assessment and policy-driven strategies for adaptive management under global change.

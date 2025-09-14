@@ -4,28 +4,32 @@ title: About
 
 # Employment
 
-Research Associate, 01/2025-current
+-   Research Associate, 01/2025-current.
 
-School of Biosciences, Ecology and Evolutionary Biology, University of Sheffield, UK; *Advisor: Prof. Andrew Beckerman*
+    School of Biosciences, Ecology and Evolutionary Biology, University of Sheffield, UK;
 
-Postdoc, 01/2022-12/2024
+    Supervisor: [Prof. Andrew Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)
 
-School of Ecology, Environment and Resources, Guangdong University of Technology, China; *Advisor: Prof. Zhifeng Yang*
+-   Postdoc, 01/2022-12/2024.
+
+    School of Ecology, Environment and Resources, Guangdong University of Technology, China;
+
+    Supervisor: Prof. Zhifeng Yang
 
 # Education
 
-●       Visiting Ph.D., 09/2019-12/2020
+-   Visiting Ph.D., 09/2019-12/2020
 
-Department of Ecology and Ecosystem Modelling, University of Potsdam, Germany *Advisor: Prof. Ursula Gaedke and Prof. Peter C. de Ruiter*
+    Department of Ecology and Ecosystem Modelling, University of Potsdam, Germany.
 
-●       Ph.D., 09/2015-01/2022
+    Supervisor: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/en/ibb-ecology/staff/professor-gaedke) and [Prof. Peter C. de Ruiter](https://scholar.google.com/citations?user=zx76a1gAAAAJ&hl=en&inst=12733411405069140160)
 
-School of Environment, Beijing Normal University, China
+-   Ph.D., 09/2015-01/2022
 
-*Advisor: Prof. Wei Yang*
+    School of Environment, Beijing Normal University, China.
 
-Thesis: Food web trophic structure and stability in the Yellow River Delta wetlands
+    Supervisor: [Prof. Wei Yang](https://www.researchgate.net/profile/Wei-Yang-148)
 
-●       Bachelor, 09/2011-07/2015
+-   Bachelor, 09/2011-07/2015
 
-College of Geography and Environmental Science, Henan University, China
+    College of Geography and Environmental Science, Henan University, China.
