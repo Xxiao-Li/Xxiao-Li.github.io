@@ -1,24 +1,44 @@
 ---
-title: Xiaoxiao Li
-image: pics/xxl.jpeg
+title: ""
 toc: false
-about: 
+about:
   template: trestles
-  image-shape: round
- # image-width: 17em
-  links:
-    - text: Email
-      href: xiaoxiao.li@sheffield.ac.uk
-    - text: ORCID
-      href: https://orcid.org/0000-0002-4029-2162
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Xiaoxiao-Li-13?ev=hdr_xprf
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en&inst=12733411405069140160&authuser=1
-    - text: GitHub
-      href: https://github.com/Xxiao-Li
+  image: "pics/xxli_small.jpeg"
+  #image-shape: round
+#   links:
+#     - text: Email
+#       href: xiaoxiao.li@sheffield.ac.uk
+#     - text: ORCID
+#       href: https://orcid.org/0000-0002-4029-2162
+#     - text: ResearchGate
+#       href: https://www.researchgate.net/profile/Xiaoxiao-Li-13?ev=hdr_xprf
+#     - text: Google Scholar
+#       href: https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en&inst=12733411405069140160&authuser=1
+#     - text: GitHub
+#       href: https://github.com/Xxiao-Li
+---
+# **Welcome!**
+
+I am currently a Post-Doctoral Research Associate in [Prof. Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)'s lab at the University of Sheffield, working on the UKRI-NERC project **"*Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World*".**
+
+
+I am an ecologist focused on food webs, biodiversity, and ecosystem functioning.
+
+I conduct field sampling to explore patterns in aquatic ecosystems.
+
+I build computational models to explore theories of how ecosystems respond to changing environments.
+
+<bp>
+
 ---
 
-I am currently a Research Associate in [Prof. Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)'s lab at the University of Sheffield, working on the UKRI-funded project **"Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World."**
+<p class="d-flex flex-wrap gap-2">
+  <a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a>
+  <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a>
+  <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a>
+  <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a>
+  <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+</p>
 
-I am a quantitative ecologist working at the interface of field-based empirical research and theory-driven computational modelling. My work focuses on understanding how multiple environmental stressors, such as nutrient enrichment, contaminants, altered hydrology, and habitat heterogeneity, shape biodiversity, ecosystem functioning, and community stability. Using food web trophic topology, trait-based mechanistic models, and large-scale numerical simulations, I explore species extinction risk, identify keystone species/interactions, and assess stability across scales. I aim to focus more on processes and mechanisms underlying these responses and develop forecasts to inform risk assessment and policy-driven strategies for adaptive management under global change.
+
+

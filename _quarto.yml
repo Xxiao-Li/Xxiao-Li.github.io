@@ -1,25 +1,33 @@
 project:
-  title: "Xxiao-Li.github.io"
+  title: "xiaoxiao Li"
   type: website
   output-dir: docs
 
 editor: visual
 
 website:
-  title: "Xiaoxiao Li"
+  title: "Xiaoxiao Li"      
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - About.qmd
-      - Research.qmd
-      - Publications.qmd
-      - CV.qmd
+    left: []                
+    right:
+      - text: About me
+        href: About.qmd
+      - text: Research
+        href: Research.qmd
+      - text: News
+        href: News.qmd
+      - text: Publications
+        href: Publications.qmd
+      - text: Contact
+        href: Contact.qmd
+      - text: CV
+        href: CV.qmd
+
 
 format:
   html:
-    theme: fatly
+    theme: flatly
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
