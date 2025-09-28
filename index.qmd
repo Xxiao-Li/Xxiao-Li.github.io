@@ -17,10 +17,12 @@ about:
 #     - text: GitHub
 #       href: https://github.com/Xxiao-Li
 ---
+
 # **Welcome!**
 
 I am currently a Post-Doctoral Research Associate in [Prof. Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)'s lab at the University of Sheffield, working on the UKRI-NERC project **"*Assessing and Managing the Impacts of Mixtures of Chemicals on UK Freshwater Biodiversity in a Changing World*".**
 
+<bp>
 
 I am an ecologist focused on food webs, biodiversity, and ecosystem functioning.
 
@@ -30,15 +32,10 @@ I build computational models to explore theories of how ecosystems respond to ch
 
 <bp>
 
----
+------------------------------------------------------------------------
 
 <p class="d-flex flex-wrap gap-2">
-  <a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a>
-  <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a>
-  <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a>
-  <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a>
-  <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+
+<a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a> <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a> <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a> <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a> <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+
 </p>
-
-
-

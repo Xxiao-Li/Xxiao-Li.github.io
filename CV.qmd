@@ -2,4 +2,12 @@
 title: ""
 ---
 
-Please click [here](https://docs.google.com/document/d/1H4Ryc1tBbCGOPwJM4rZRqhcW7yITmJDc/edit) for my latest CV.
+<br>
+
+<br>
+
+::: {style="min-height: 20vh; display: flex; align-items: center; justify-content: center; text-align:center;"}
+## Please click [here](https://docs.google.com/document/d/1H4Ryc1tBbCGOPwJM4rZRqhcW7yITmJDc/edit) for my latest CV.
+:::
+
+<br>

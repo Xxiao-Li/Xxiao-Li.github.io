@@ -1,12 +1,12 @@
 project:
-  title: "xiaoxiao Li"
+  title: "**xiaoxiao Li**"
   type: website
   output-dir: docs
 
 editor: visual
 
 website:
-  title: "Xiaoxiao Li"      
+  title: "**Xiaoxiao Li**"      
   navbar:
     left: []                
     right:
@@ -17,7 +17,7 @@ website:
       - text: News
         href: News.qmd
       - text: Publications
-        href: Publications.qmd
+        href: Publication.qmd
       - text: Contact
         href: Contact.qmd
       - text: CV
