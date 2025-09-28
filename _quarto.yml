@@ -16,7 +16,7 @@ website:
         href: Research.qmd
       - text: News
         href: News.qmd
-      - text: Publications
+      - text: Publication
         href: Publication.qmd
       - text: Contact
         href: Contact.qmd
