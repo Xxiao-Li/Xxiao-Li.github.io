@@ -1,0 +1,34 @@
+/* styles.css */
+
+/* Global font size */
+body {
+  font-size: 20px; /* default is ~16px */
+}
+
+/* Change main text color and background */
+body {
+  color: #333333;
+  background-color: linen;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #004466 !important;
+}
+.navbar a {
+  color: white !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", serif;
+  color: #003366;
+}
+
+/* Links */
+a {
+  color: #0077cc;
+}
+a:hover {
+  color: #ff6600;
+}
