@@ -3,28 +3,19 @@ title: ""
 ---
 
 ## Research Interest
-I am a quantitative ecologist working at the interface of field-based empirical research and theory-driven computational modelling. My work focuses on understanding how multiple environmental stressors, such as nutrient enrichment, contaminants, altered hydrology, and habitat heterogeneity, shape biodiversity, ecosystem functioning, and community stability. Using food web trophic topology, trait-based mechanistic models, and large-scale numerical simulations, I explore species extinction risk, identify keystone species/interactions, and assess stability across scales. I aim to focus more on processes and mechanisms underlying these responses and develop forecasts to inform risk assessment and policy-driven strategies for adaptive management under global change.
 
+I am a quantitative ecologist working at the interface of field-based empirical research and theory-driven computational modelling. My work focuses on understanding how multiple environmental stressors, such as nutrient enrichment, contaminants, altered hydrology, and habitat heterogeneity, shape biodiversity, ecosystem functioning, and community stability. Using food web trophic topology, trait-based mechanistic models, and large-scale numerical simulations, I explore species extinction risk, identify keystone species/interactions, and assess stability across scales. I aim to focus more on processes and mechanisms underlying these responses and develop forecasts to inform risk assessment and policy-driven strategies for adaptive management under global change.
 
 ## Employment
 
--   Research Associate, 01/2025-current.
-    School of Biosciences, Ecology and Evolutionary Biology, University of Sheffield, UK; 
-    Supervisor: [Prof. Andrew Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)
+-   Post-Doctoral Research Associate, 01/2025-current. School of Biosciences, Ecology and Evolutionary Biology, University of Sheffield, UK; Supervisor: [Prof. Andrew Beckerman](https://www.sheffield.ac.uk/biosciences/people/academic-staff/andrew-beckerman)
 
--   Postdoc, 01/2022-12/2024.
-    School of Ecology, Environment and Resources, Guangdong University of Technology, China;
-    Supervisor: Prof. Zhifeng Yang
+-   Post-Doctoral Research Associate, 01/2022-12/2024. School of Ecology, Environment and Resources, Guangdong University of Technology, China; Supervisor: Prof. Zhifeng Yang
 
 ## Education
 
--   Visiting Ph.D., 09/2019-12/2020
-    Department of Ecology and Ecosystem Modelling, University of Potsdam, Germany.
-    Supervisor: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/en/ibb-ecology/staff/professor-gaedke) and [Prof. Peter C. de Ruiter](https://scholar.google.com/citations?user=zx76a1gAAAAJ&hl=en&inst=12733411405069140160)
+-   Visiting Ph.D., 09/2019-12/2020 Department of Ecology and Ecosystem Modelling, University of Potsdam, Germany. Supervisor: [Prof. Ursula Gaedke](https://www.uni-potsdam.de/en/ibb-ecology/staff/professor-gaedke) and [Prof. Peter C. de Ruiter](https://scholar.google.com/citations?user=zx76a1gAAAAJ&hl=en&inst=12733411405069140160)
 
--   Ph.D., 09/2015-01/2022
-    School of Environment, Beijing Normal University, China.
-    Supervisor: [Prof. Wei Yang](https://www.researchgate.net/profile/Wei-Yang-148)
+-   Ph.D., 09/2015-01/2022 School of Environment, Beijing Normal University, China. Supervisor: [Prof. Wei Yang](https://www.researchgate.net/profile/Wei-Yang-148)
 
--   Bachelor, 09/2011-07/2015
-    College of Geography and Environmental Science, Henan University, China.
+-   Bachelor, 09/2011-07/2015 College of Geography and Environmental Science, Henan University, China.
