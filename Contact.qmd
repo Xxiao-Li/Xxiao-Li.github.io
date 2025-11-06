@@ -4,7 +4,11 @@ title: ""
 
 ## Get in touch
 
-**Email:** [xiaoxiao.li\@sheffield.ac.uk](mailto:xiaoxiao.li@sheffield.ac.uk){.email}
+<p class="d-flex flex-wrap gap-2">
+
+<a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a> <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a> <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a> <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a> <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+
+</p>
 
 **Address:** School of Biosciences, Alfred Denny Building, Western Bank, Sheffield, S10 2TN, UK
 
