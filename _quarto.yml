@@ -1,22 +1,24 @@
 project:
-  title: "xiaoxiao Li"
+  title: ""
   type: website
   output-dir: docs
 
 editor: visual
 
 website:
-  title: "*Xiaoxiao Li*"      
+  title: ""      
   navbar:
     left: []                
     right:
+      - text: Home
+        href: index.qmd
       - text: About me
         href: About.qmd
       - text: Research
         href: Research.qmd
-      - text: News
-        href: News.qmd
-      - text: Publication
+      #- text: Posts
+      #  href: News.qmd
+      - text: Publications
         href: Publication.qmd
       - text: Contact
         href: Contact.qmd

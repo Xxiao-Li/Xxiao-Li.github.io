@@ -1,21 +1,21 @@
 ---
-title: ""
+title: "Xiaoxiao Li"        # ← this shows under the trestles photo
 toc: false
 about:
   template: trestles
   image: "pics/xxl.png"
-  #image-shape: round
-#   links:
-#     - text: Email
-#       href: xiaoxiao.li@sheffield.ac.uk
-#     - text: ORCID
-#       href: https://orcid.org/0000-0002-4029-2162
-#     - text: ResearchGate
-#       href: https://www.researchgate.net/profile/Xiaoxiao-Li-13?ev=hdr_xprf
-#     - text: Google Scholar
-#       href: https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en&inst=12733411405069140160&authuser=1
-#     - text: GitHub
-#       href: https://github.com/Xxiao-Li
+  image-shape: round
+  links:
+    - text: "📧 Email"
+      href: "mailto:xiaoxiao.li@sheffield.ac.uk"
+    - text: "🎋 ORCID"
+      href: "https://orcid.org/0000-0002-4029-2162"
+    - text: "🍀 ResearchGate"
+      href: "https://www.researchgate.net/profile/Xiaoxiao-Li-13"
+    - text: "🎓 Google Scholar"
+      href: "https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en"
+    - text: "🐣 GitHub"
+      href: "https://github.com/Xxiao-Li"
 ---
 
 # **Welcome!**
@@ -34,8 +34,16 @@ I build computational models to explore theories of how ecosystems respond to ch
 
 ------------------------------------------------------------------------
 
-<p class="d-flex flex-wrap gap-2">
+📍📍📍📍📍
 
-<a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a> <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a> <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a> <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a> <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+🦩 I will attend BES 2025 from December 15th to 18th in Edinburgh. I will present a poster "how species response diversity and food web structure buffer community level endpoints". If you are attending, please reach out to connect!
 
-</p>
+---
+#
+
+# <p class="d-flex flex-wrap gap-2">
+# 
+# <a class="btn btn-sm btn-outline-primary" href="mailto:xiaoxiao.li@sheffield.ac.uk">📧 Email</a> <a class="btn btn-sm btn-outline-primary" href="https://orcid.org/0000-0002-4029-2162">🟢 ORCID</a> <a class="btn btn-sm btn-outline-primary" href="https://www.researchgate.net/profile/Xiaoxiao-Li-13">🧪 ResearchGate</a> <a class="btn btn-sm btn-outline-primary" href="https://scholar.google.com/citations?user=djmP82AAAAAJ&hl=en">🎓 Google Scholar</a> <a class="btn btn-sm btn-outline-primary" href="https://github.com/Xxiao-Li">🐣 GitHub</a>
+# 
+# </p>
+---
