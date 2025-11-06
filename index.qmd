@@ -1,5 +1,5 @@
 ---
-title: "Xiaoxiao Li"        # ← this shows under the trestles photo
+title: "Xiaoxiao Li"        
 toc: false
 about:
   template: trestles
