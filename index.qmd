@@ -3,7 +3,7 @@ title: ""
 toc: false
 about:
   template: trestles
-  image: "pics/xxli_small.jpeg"
+  image: "pics/xxl.png"
   #image-shape: round
 #   links:
 #     - text: Email
