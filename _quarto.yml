@@ -6,7 +6,7 @@ project:
 editor: visual
 
 website:
-  title: "**Xiaoxiao Li**"      
+  title: "*Xiaoxiao Li*"      
   navbar:
     left: []                
     right:
