@@ -6,7 +6,7 @@ about:
   image: "pics/xxl.png"
   image-shape: round
   links:
-    - text: "📧 Email"
+    - text: "📮 Email"
       href: "mailto:xiaoxiao.li@sheffield.ac.uk"
     - text: "🎋 ORCID"
       href: "https://orcid.org/0000-0002-4029-2162"
@@ -24,17 +24,19 @@ I am currently a Post-Doctoral Research Associate in [Prof. Beckerman](https://w
 
 <bp>
 
-I am an ecologist focused on food webs, biodiversity, and ecosystem functioning.
+I work at the interface of ecology and environmental science.
 
-I conduct field sampling to explore patterns in aquatic ecosystems.
+I focus on food web structure, biodiversity, and ecosystem functions.
 
-I build computational models to explore theories of how ecosystems respond to changing environments.
+I conduct field sampling to find patterns in aquatic ecosystems.
+
+I build computational models to generate theories of how communities respond to changing environments.
 
 <bp>
 
 ------------------------------------------------------------------------
 
-📍📍📍📍📍
+📍🔊🔊🔊
 
 🦩 I will attend BES 2025 from December 15th to 18th in Edinburgh. I will present a poster "how species response diversity and food web structure buffer community level endpoints". If you are attending, please reach out to connect!
 
